@@ -1,0 +1,10 @@
+//Miguel
+1.- Creación de la base de datos
+2.- Conectar mysql con aplicación hecha en java
+//Janet
+1.- Hacer la página (php, css y html)
+//Claudia
+1.-Documentación
+2.-Manuales
+//Jessy
+1.- Creación de la aplicación en java
